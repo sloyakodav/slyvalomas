@@ -7,3 +7,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slyvalomas&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slyvalomas&repo=social-media-dashboard)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyvalomas)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyvalomas&size_weight=0.5&count_weight=0.5)
