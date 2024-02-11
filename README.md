@@ -8,3 +8,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slyvalomas&repo=social-media-dashboard)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyvalomas)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyvalomas&exclude_repo=github-readme-stats,anuraghazra.github.io)
+........
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyvalomas&langs_count=8)
